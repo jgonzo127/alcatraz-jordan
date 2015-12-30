@@ -1,0 +1,26 @@
+# Copyright (C) 2015 Jordan Martin
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Alcatraz Jordan 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-11-30 07:49:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#. Theme Name of the plugin/theme
+msgid "Alcatraz Jordan"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An awesome child theme for Alcatraz."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jordan Martin"
+msgstr ""
